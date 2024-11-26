@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="color_primarybuttonbg">#E0911C</color>
+    <color name="color_edit_Txt">#EDEFD7</color>
+    <color name="color_edit_back">#B71C1C</color>
+    <color name="color_textview">#7A61E9</color>
+
+
+</resources>
